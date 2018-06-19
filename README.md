@@ -1,4 +1,5 @@
-# albumdefotos
-## Primeiro trabalho de frontend ##
+# Album de Fotos
 
-* Publicação disponível em: https://s3-sa-east-1.amazonaws.com/front-end-puc-minas/Index.html
+# Primeiro trabalho de frontend #
+
+* Acesse a versão publicada em: https://s3-sa-east-1.amazonaws.com/front-end-puc-minas/Index.html
