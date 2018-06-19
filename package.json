@@ -1,0 +1,31 @@
+{
+  "name": "albumdefotos",
+  "version": "1.0.0",
+  "description": "Primeiro trabalho de frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaviopedrosa/frontend-albumdefotos.git"
+  },
+  "keywords": [
+    "trabalho",
+    "de",
+    "front",
+    "end",
+    "puc",
+    "minas",
+    "iec"
+  ],
+  "author": "Flavio Pedrosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flaviopedrosa/frontend-albumdefotos/issues"
+  },
+  "homepage": "https://github.com/flaviopedrosa/frontend-albumdefotos#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}

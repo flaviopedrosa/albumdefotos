@@ -1,0 +1,23 @@
+.painel {
+    background-color: lightblue;
+    min-width: 400px;
+    min-height: 400px;
+   }
+.div-border-color{
+    background-color: #ffffff;
+    border: solid 1px #ccc;
+}
+
+#div-menu {
+    height: 150px;
+}
+
+#div-albuns, #div-fotos-principal{
+    height: 500px;
+}
+.div-foto{
+    height: 200px;
+}
+#div-visualizador{
+    height: 200px;
+}
